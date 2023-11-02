@@ -26,7 +26,7 @@ O projeto buscará as seguintes funcionalidades:
 ## Alvo tecnológico
 
 - Linguagem de Programação: priorizar a construção de softwares em linguagens modernas e seguras como Rust, implementando bindings para os modelos open-source mais utilizados.
-- Modelos de IA: LLMs de código livre e treino em databases médicas diversas, bem como literaturas[^1].
+- Modelos de IA: LLMs de código livre e treino em databases médicas diversas, bem como literaturas¹.
 
 ## Metas
 - [x] Repositório básico da ideia.
@@ -40,4 +40,4 @@ O projeto buscará as seguintes funcionalidades:
 - [ ] Fundar a marca.
 - [ ] Venda comercial do suporte e da integração.
 
-[^1] As referências bibliográficas precisarão de consultoria jurídica/autoral para implementação.
+[1] As referências bibliográficas precisarão de consultoria jurídica/autoral para implementação.
